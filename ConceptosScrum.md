@@ -1,3 +1,4 @@
+![Roles](https://user-images.githubusercontent.com/106499760/175543437-9f3a1a16-5151-446d-9185-9d7224e34f12.jpg)
 CONCEPTOS DE SCRUM:
 [SCRUM.pdf](https://github.com/JosePolvora/METODOLIGIA-SCRUM/files/8935872/SCRUM.pdf)
 
