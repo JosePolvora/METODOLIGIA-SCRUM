@@ -1,12 +1,15 @@
 
-# CONCEPTOS DE SCRUM:
+# CONCEPTOS DE SCRUM
 
+# CEREMONIAS
 
-# CEREMONIAS:
+# Las cuatro ceremonias son:
 - Sprint Planning Meeting.
 - Daily Scrum Meeting.
 - Sprint Review Meeting.
 - Sprint Retrospective Meeting.
+
+# Descripcion de cada una de las ceremonias:
 
 - Sprint Planning Meeting: (reunión de planificación del sprint). Se produce al iniciar cada Sprint y tiene por objetivo decidir que se va a realizar en el Sprint.
 - Daily Scrum Meeting: (reunión periódica). Se produce diariamente, y tiene un máximo de 20 minutos de duración. Tiene por objeto tratar qué es lo que se hizo, qué se va a hacer y qué problemas se han encontrado, esto a fines de encontrar soluciones en la diaria.
